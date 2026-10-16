@@ -9,7 +9,7 @@ Open-source and self-hosted tools, made in France by [Klakh](https://github.com/
   Jellyfin (AGPL v3).
 - **[Klakboard](https://github.com/LokLakh-s/Klakboard)**: a dashboard for the small screen next to
   your monitor. Markets, weather and system load at a glance, on small panels, bar and portrait
-  screens (Windows, MIT).
+  screens (Windows, macOS, Linux; MIT).
 
   <a href="https://github.com/LokLakh-s/Klakboard"><img src="https://raw.githubusercontent.com/LokLakh-s/Klakboard/main/docs/screenshots/bar-1920x480.png" width="600" alt="Klakboard on a 1920 × 480 bar screen: market badges, weather and system load side by side"></a>
 - **[LCDHost Revival](https://github.com/LokLakh-s/LCDHost-Revival)** brings LCDHost, the plugin
