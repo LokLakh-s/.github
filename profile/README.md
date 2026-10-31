@@ -16,10 +16,10 @@ Open-source and self-hosted tools, made in France by [Klakh](https://github.com/
   manager for Logitech G15/G19 LCD screens abandoned in 2016, back to life on today's systems (GPL v3).
 - **[OffLok](https://github.com/LokLakh-s/OffLok)**: your computer as its own DNS resolver. It finds
   every site's address itself, starting from the root servers, with no internet provider, Google or
-  Cloudflare in between; blocking ads and trackers is included, off at first (Windows, Linux, macOS
-  coming; MIT). Website: [offlok.org](https://offlok.org).
+  Cloudflare in between; blocking trackers and malicious sites is included, off at first (Windows,
+  Linux, macOS coming; MIT). Website: [offlok.org](https://offlok.org).
 
-  <a href="https://offlok.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LokLakh-s/OffLok/main/site/img/app-en-dark.webp"><img src="https://raw.githubusercontent.com/LokLakh-s/OffLok/main/site/img/app-en-light.webp" width="300" alt="OffLok's window: You are your own DNS, the main switch, and blocking of ads, trackers and malicious sites"></picture></a>
+  <a href="https://offlok.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LokLakh-s/OffLok/main/site/img/app-en-dark.webp"><img src="https://raw.githubusercontent.com/LokLakh-s/OffLok/main/site/img/app-en-light.webp" width="300" alt="OffLok's window: You are your own DNS, the main switch, and blocking of trackers and malicious sites"></picture></a>
 
 ## Sponsoring
 
