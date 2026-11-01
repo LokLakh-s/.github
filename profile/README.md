@@ -16,16 +16,16 @@ right inside Jellyfin, with nothing else to install.
 
 <a href="https://github.com/LokLakh-s/JellyCrowd"><img src="https://raw.githubusercontent.com/LokLakh-s/JellyCrowd/main/screenshots/detail.png" height="300" alt="A title's page in JellyCrowd, inside Jellyfin: synopsis, cast, the request form and reviews"></a>
 
-### <img src="https://raw.githubusercontent.com/LokLakh-s/.github/main/profile/img/klakboard.png" width="36" height="36" align="absmiddle" alt=""> [Klakboard](https://github.com/LokLakh-s/Klakboard)
+### <img src="https://raw.githubusercontent.com/LokLakh-s/.github/main/profile/img/dashlok.png" width="36" height="36" align="absmiddle" alt=""> [DashLok](https://github.com/LokLakh-s/DashLok) *(formerly Klakboard)*
 
 **A dashboard for the small screen next to your monitor.** Markets, weather and system load at a glance, on small
 panels, bar and portrait screens.
 
-[![Licence: MIT](https://img.shields.io/badge/licence-MIT-e2ac33?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/Klakboard/blob/main/LICENSE)
-[![Runs on: Linux, macOS, Windows](https://img.shields.io/badge/runs_on-Linux_%C2%B7_macOS_%C2%B7_Windows-2a9d8f?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/Klakboard#readme)
-[![Download the latest release](https://img.shields.io/badge/download-latest_release-3f8f5a?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/Klakboard/releases/latest)
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-e2ac33?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/DashLok/blob/main/LICENSE)
+[![Runs on: Linux, macOS, Windows](https://img.shields.io/badge/runs_on-Linux_%C2%B7_macOS_%C2%B7_Windows-2a9d8f?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/DashLok#readme)
+[![Download the latest release](https://img.shields.io/badge/download-latest_release-3f8f5a?style=flat-square&labelColor=1d1d23)](https://github.com/LokLakh-s/DashLok/releases/latest)
 
-<a href="https://github.com/LokLakh-s/Klakboard"><img src="https://raw.githubusercontent.com/LokLakh-s/Klakboard/main/docs/screenshots/dashboard-dark.png" height="300" alt="Klakboard on a 960 × 640 screen: market badges with sparklines, the weather card, CPU cores, RAM and network"></a>
+<a href="https://github.com/LokLakh-s/DashLok"><img src="https://raw.githubusercontent.com/LokLakh-s/DashLok/main/docs/screenshots/dashboard-dark.png" height="300" alt="DashLok on a 960 × 640 screen: market badges with sparklines, the weather card, CPU cores, RAM and network"></a>
 
 ### <img src="https://raw.githubusercontent.com/LokLakh-s/.github/main/profile/img/lcdhost.png" width="36" height="36" align="absmiddle" alt=""> [LCDHost Revival](https://github.com/LokLakh-s/LCDHost-Revival)
 
